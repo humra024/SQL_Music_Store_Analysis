@@ -3,6 +3,8 @@ This project aims to analyze a digital music store database using SQL, with a fo
 
 Database and Tools: Postgre SQL, PgAdmin4
 
+Presentation Report: https://github.com/humra024/SQL_Music_Store_Analysis/blob/main/Music%20Store%20Analysis.pdf
+
 Schema- Music Store Database
 
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/ad32302e-c5f7-4790-8ac0-300345996add">
